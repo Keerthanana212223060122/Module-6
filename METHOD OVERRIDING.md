@@ -33,7 +33,7 @@ To write a Python program to create a Parent class `Bird` and inherit two child 
 
 ### PROGRAM
 
-```
+```python
 class Bird:
     def intro(self):
         print("There are many types of birds.")
