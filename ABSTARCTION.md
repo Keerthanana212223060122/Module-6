@@ -33,7 +33,7 @@ To write a Python program to define the abstract base class named `Polygon` and 
 
 ### PROGRAM
 
-```
+```python
 from abc import ABC
 class Polygon(ABC):   
   
