@@ -31,7 +31,7 @@ To write a Python program to perform addition of two complex numbers using the b
 
 ### PROGRAM
 
-```
+```python
 class Complex:
     def __init__(self, real, imag):
         self.real = real
